@@ -17,7 +17,9 @@ Telegram: https://t.me/HiaiFeng <br>
 <p>在使用过程中，如果遇到问题，请使用Telegram与我联系。（ https://t.me/HiaiFeng ）</p>
 site: edit
 static -advanced 
+
 #UUID=de04add9-5c68-8bab-950c-08cd5320df18
 #VMESS_WSPATH=/vmess
 #VLESS_WSPATH=/vless
+
 bash <(curl -sL https://raw.githubusercontent.com/hiifeng/V2ray-for-AlwaysData/main/install.sh)
